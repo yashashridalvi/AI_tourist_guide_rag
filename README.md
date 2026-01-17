@@ -37,9 +37,13 @@ LLM (Ollama TinyLlama / Phi-3)
         ↓
 Response Generator
         ↓
+
 Text-to-Speech (if voice)
         ↓
       User
+
+
+
 
       
 
