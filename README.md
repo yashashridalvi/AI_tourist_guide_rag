@@ -41,6 +41,7 @@ Text-to-Speech (if voice)
         ↓
       User
 
-      <img width="563" height="344" alt="image" src="https://github.com/user-attachments/assets/31fbaa14-338f-4594-98d3-37ad2164d59f" />
+      
+
 
 
